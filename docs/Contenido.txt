@@ -1,0 +1,37 @@
+1 Computadora Core I5 7400 7Th Gen S/ 2,700
+2 Computadora CORE I7 10700K 10th Gen S/ 3,999
+3 Impresora CANON PIXMA G3110 S/ 899
+4 Impresora EPSON EcoTank L4260 S/ 1,249
+5 AURICULARES RAZER KRAKEN TOURNAMENT EDITION - GAMING S/ 549
+6 Cámara Web HD S/ 99
+P1 KIT THUNDERWOLF. Por La Compra De Tu Pc S/ 99
+P2 Antivirus-15% Desct. Por La Compra De Tu Equipo S/ 99
+P3 Monitor SAMSUNG 24" C24F390FHL S/ 999
+P4 Laptop Lenovo Legion 5 15ARH05 15.6" Ryzen 7 S/ 5,999
+P5 Impresora HP INK TANK 315 S/ 799
+P6 PC Gamer Haku Ryzen 3-2200G S/ 2,499
+I1 Impresora HP DESKJET INK ADVANTAGE 1275 S/ 280
+I2 Impresora De Tickets Térmica USB S/ 349
+I3 Impresora EPSON Eco Tank L3110 S/ 899
+I4 Impresora Epson L15150 S/ 4,999
+G1 PC Gamer Draco Core I3 10100F 10Th Gen S/ 2,699
+G2 PC Gamer Draco Core I3 10TH S/ 2,899
+G3 PC Gamer Draco Green Core I3 10TH S/ 2,999
+G4 PC Gamer Draco Plus Core I5 9400F S/ 3,499
+G5 PC Gamer Draco-Red Core I5 9400F 9Th Gen S/ 3,699
+G6 PC Gamer Draco-Blue Core I5 10400F 10Th Gen S/ 4,499
+M1 Monitor LG 27" 27UL500 4k IPS S/ 1,499
+M2 Monitor Samsung LED 27” Smart S27AM500NL S/ 1,299
+M3 Monitor Samsung LED 24” Smart S24AM506NLS/ 849
+M4 Monitor BenQ Zowie XL2546 24.5" S/ 2,699
+M5 Monitor Gigabyte G27FC 27" 1ms 165Hz Curvo S/ 1,499
+K1 Kit Teclado + Mouse Gamer Micronics Frantic S/ 129
+K2 Teclado Gamer Micronics Lumiere K701T S/ 99
+K3 Parlantes Fratello - MIC S7027B S/ 319
+K4 Parlante RGB Light Stereo Computer Speaker S/ 59
+K5 SILLA GAMER HALION HA S41S/ 699
+T1 ALL IN ONE HP 200 G4 21.5" Core I5 S/ 3,499
+T2 ALL IN ONE HP 205 G4 23.8" AMD RYZEN 5S/ 2,999
+T3 ALL IN ONE HP 205G4 21.5" AMD S/ 2,199
+T4 ALL IN ONE HP D0018LA 21.5" AMD RYZEN 3 S/ 2,399
+T5 Garantía Extendida (1 Año) S/ 99

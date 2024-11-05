@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body {
+    background-color:white;
+}
+#contenedor {
+    background-color: white;
+    width: 90%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+header {
+    width: 100%;
+    background-color:#cc292e;
+}
+nav {
+    border: 3px solid white;
+    width: 100%;
+    background-color: #cc292e;
+    text-align:center;
+}
+#izquierda {
+    width: 20%;
+    background-color:#cc292e;
+}
+section {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+#derecha {
+    width: 20%;
+    background-color: #cc292e;
+}
+footer {
+    width: 100%;
+    background-color:#4e52ff;
+    padding: 10px;
+    text-align: center;
+}
+header h1 {
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+header img {
+    width: 100%;
+    vertical-align: bottom;
+}
+nav a {
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    
+}
+nav a:hover{
+    background-color:#4e52ff;
+    color: white
+    
+}
+#izquierda h3{
+    margin: 10px;
+}
+#izquierda a{
+    display: block;
+    margin: 10PX;
+    text-decoration: none;
+    color:black
+}
+#izquierda a:hover{
+text-decoration: underline;
+color:white
+}
+#derecha video{
+width: 80%;
+margin: 10px auto;
+display: block;
+}
+#derecha audio{
+    width: 85%;
+    margin: 10px auto;
+    display: block;
+    }
+    article{
+        padding: 20px;
+    }
+    article img{
+        float: left;
+        margin: 0px 20px 20px 0px;
+        border: 2px solid #cc292e;
+    }
+    article p{
+        padding: 35px;
+        text-align:justify;
+    }
